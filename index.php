@@ -1,5 +1,5 @@
 <?php 
-echo "CHAROENPORN CB";
+echo "CHAROENPORN";
 echo "Bouyam";
 echo "CHAROENPORN@mail.wu.ac.th"
 
